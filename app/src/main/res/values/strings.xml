@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="taktsang_description">Description of Taktsang Monastery...</string>
+    <string name="thimphu_description">Description of Thimphu...</string>
+    <string name="bhumtang_description">Description of Bhumtang...</string>
+    <string name="paro_description">Description of Paro...</string>
+
+</resources>
